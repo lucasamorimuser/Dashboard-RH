@@ -34,15 +34,15 @@ Elaboração do painel:
 
 #### Perfil dos Colaboradores (página 3)
 
- - Gráficos de barras horizontais com o valor do salário para o cargo e a soma dos salários do cargo
+ - Gráficos de barras horizontais com o valor do salário para o cargo e a aomatória dos salários do cargo em questão
  - Gráficos de Donuts com distribuição percentual dos colaboradores por tipo de contrato
  - Gráficos de Donuts com a distribuição percentual dos colaboradores por escolaridade
  - Gráficos de Donuts com a distribuição percentual dos colaboradores por estado civil
  - Gráfico de funil com classificação por tempo de empresa
 
-Interatividade com o usuário:
+#### Interatividade com o usuário:
 
-  - Além dos os campos "clicáveis" dos gráficos que funcionam como interface interativa, foram adicionados filtros por data e departamento em todas as páginas.
+  - Além dos os campos "clicáveis" dos gráficos que funcionam como interface interativa, foram adicionados filtros por datas e departamento em todas as páginas.
 
 ### Análise dos dados
 
@@ -50,12 +50,13 @@ A equipe de produção detém a maior quantidade de colaboradores, e essa superi
   - Predominância masculina na companhia
   - Maior folha salarial (mesmo que com a segunda menor média de salário)
   - Maioridade em escolaridade nível médio
-Abrem-se oportunidades na melhoria da diversidade da equipe (dentro dos limites cabíveis com as exigências das vagas), e, investir na profissionalização dos colaboradores olhando principalmente os de produção.
+
+Abrem-se oportunidades na melhoria da diversidade da equipe (dentro dos limites cabíveis com as exigências das vagas) e investimentos na profissionalização dos colaboradores (olhando principalmente os de produção onde há muitos com ensino médio completo).
 
 A rotatividade está em queda desde 2018 e estável em índice menor que 10% há 3 anos, alcançando a melhor marca em 2025 (até o presente momento).
 
 O absenteísmo também em queda desde 2018, porém com um crescimento considerável em 2024. Necessário atenção a este indicador.
 
-A equipe possui 3 integrantes em período de estágio representando menos de 5% do total de colaboradores. Uma sugestão de projeto é ampliar o investimento em jovens através dos estágios para desenvolvimento de novos colaboradores.
+A equipe possui 3 integrantes em período de estágio representando menos de 5% do total de colaboradores. Uma sugestão de projeto é ampliar o investimento em jovens através dos estágios para desenvolvimento de novos talentos.
 
 A maior parte da equipe possui mais de 5 anos de companhia. Esse indicador é importante para entender a retenção dos colaboradores e indica de forma indireta a saúde organizacional.

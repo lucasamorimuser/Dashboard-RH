@@ -42,7 +42,7 @@ Elaboração do painel:
 
 Interatividade com o usuário:
 
-  - Além de todos os campos "clicáveis" dos gráficos que funcionam como interface interativa, foram adicionados filtros por data em ambas as páginas e por departamento na página 2.
+  - Além dos os campos "clicáveis" dos gráficos que funcionam como interface interativa, foram adicionados filtros por data e departamento em todas as páginas.
 
 ### Análise dos dados
 

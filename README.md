@@ -2,7 +2,6 @@
 
 <div style = "display: inline_block"><br>
 <img align = "center" height = "800" width = "450" src="https://github.com/lucasamorimuser/icons_images/blob/main/dashboard_rh_pg1.png" /> <img align = "center" height = "800" width = "450" src="https://github.com/lucasamorimuser/icons_images/blob/main/dashboard_rh_pg2.png" />  
-  <br><br>
   <img align = "center" height = "800" width = "450" src="https://github.com/lucasamorimuser/icons_images/blob/main/dashboard_rh_pg3.png" />
 </div>
 

@@ -19,36 +19,36 @@ Elaboração do painel:
 
 #### Overview (página 1)
 
- - Cartões de número de colaboradores, Rotatividade e Contratações
- - Gráfico de colunas com Contratações e Demissões
- - Gráfico de Donuts com a distribuição percentual dos colaboradores por sexo
- - Gráfico de Donuts com a distribuição percentual dos colaboradores por departamento
- - Gráfico de colunas com os dados de Rotatividade
+- Cartões de número de colaboradores, Rotatividade e Contratações
+- Gráfico de colunas com Contratações e Demissões
+- Gráfico de Donuts com a distribuição percentual dos colaboradores por sexo
+- Gráfico de Donuts com a distribuição percentual dos colaboradores por departamento
+- Gráfico de colunas com os dados de Rotatividade
 
 #### Absenteísmo e Rotatividade (página 2)
 
- - Gráficos de linhas com Rotatividade e Absenteísmo
- - Gráficos de barras horizontais com ausências por departamento e desligamentos por departamento
- - Gráficos de Donuts com a distribuição percentual dos motivos de ausência e motivos de desligamento
+- Gráficos de linhas com Rotatividade e Absenteísmo
+- Gráficos de barras horizontais com ausências por departamento e desligamentos por departamento
+- Gráficos de Donuts com a distribuição percentual dos motivos de ausência e motivos de desligamento
 
 #### Perfil dos Colaboradores (página 3)
 
- - Gráficos de barras horizontais com o valor do salário para o cargo e a aomatória dos salários do cargo em questão
- - Gráficos de Donuts com distribuição percentual dos colaboradores por tipo de contrato
- - Gráficos de Donuts com a distribuição percentual dos colaboradores por escolaridade
- - Gráficos de Donuts com a distribuição percentual dos colaboradores por estado civil
- - Gráfico de funil com classificação por tempo de empresa
+- Gráficos de barras horizontais com o valor do salário para o cargo e a aomatória dos salários do cargo em questão
+- Gráficos de Donuts com distribuição percentual dos colaboradores por tipo de contrato
+- Gráficos de Donuts com a distribuição percentual dos colaboradores por escolaridade
+- Gráficos de Donuts com a distribuição percentual dos colaboradores por estado civil
+- Gráfico de funil com classificação por tempo de empresa
 
 #### Interatividade com o usuário:
 
-  - Além dos os campos "clicáveis" dos gráficos que funcionam como interface interativa, foram adicionados filtros por datas e departamento em todas as páginas.
+- Além dos os campos "clicáveis" dos gráficos que funcionam como interface interativa, foram adicionados filtros por datas e departamento em todas as páginas.
 
 ### Análise dos dados
 
 A equipe de produção detém a maior quantidade de colaboradores, e essa superioridade numérica implica em diversos outros indicadores, como:
-  - Predominância masculina na companhia
-  - Maior folha salarial (mesmo que com a segunda menor média de salário)
-  - Maioridade em escolaridade nível médio
+- Predominância masculina na companhia
+- Maior folha salarial (mesmo que com a segunda menor média de salário)
+- Maioridade em escolaridade nível médio
 
 Abrem-se oportunidades na melhoria da diversidade da equipe (dentro dos limites cabíveis com as exigências das vagas) e investimentos na profissionalização dos colaboradores (olhando principalmente os de produção onde há muitos com ensino médio completo).
 
